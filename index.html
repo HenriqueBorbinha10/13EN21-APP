@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link rel="stylesheet" href="styles/home.css">
+  <link id="logo" rel="shortcut icon">
+  <link rel="manifest" href="scripts/manifest.json"/>
+  <title id="title">App Weight Loss</title>
+</head>
+<body>
+  <main>
+    <img id="logo1" alt="Logo App Manzana">
+
+    <h1 id="welcomeMessage"></h1>
+
+    <form action="diagnostico.html" id="formCalc">
+      <input type="number" id="inputIdade" placeholder="" required>
+      <input type="number" id="inputAltura" placeholder="" required>
+      <input type="number" id="inputPeso" placeholder="" required>
+      <input type="number" id="inputPesoDesejado" placeholder="" required>
+
+      <h2 id="genderQuestion"></h2>
+
+      <div class="alignRadio">
+        <div class="alignRadioItem">
+          <label for="Masculino" id="labelMasculino"></label>
+          <input type="radio" name="gender" id="Masculino" required>
+        </div>
+        <div class="alignRadioItem">
+          <label for="Femenino" id="labelFemenino"></label>
+          <input type="radio" name="gender" id="Femenino">
+        </div>
+      </div>
+
+      <h2 id="activityQuestion"></h2>
+
+      <select id="Actividad" required>
+      </select>
+
+      <button type="submit" id="submitButton"></button>
+    </form>
+  </main>
+  
+  <script src="scripts/lang_index.js"></script>
+  <script src="scripts/calculo.js"></script>
+</body>
+</html>

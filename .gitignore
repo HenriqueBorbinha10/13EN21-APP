@@ -1,0 +1,56 @@
+# Ignore arquivos do sistema operacional macOS
+.DS_Store
+
+# Ignore arquivos de backup
+*.bak
+*.tmp
+*.swp
+
+# Ignore logs e arquivos temporários
+*.log
+*.tmp
+*.lock
+
+# Ignore arquivos de cache
+.cache/
+node_modules/
+dist/
+
+# Ignore arquivos do editor de texto
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Ignore arquivos de compilação do sistema
+build/
+tmp/
+
+# Ignore arquivos de configuração de ambiente local
+.env
+.env.local
+.env.*.local
+
+# Ignore arquivos gerados por pacotes de dependências (se usados)
+package-lock.json
+yarn.lock
+
+# Ignore arquivos de configuração específicos do editor
+.idea/
+*.iml
+
+# Ignore uploads ou arquivos gerados automaticamente (se aplicável)
+uploads/
+generated/
+
+# Ignore pastas de deploy
+deploy/
+public/
+
+# Ignorar artefatos de build de front-end (caso utilize bundlers)
+.bundle/
+out/
+*.map
+*.min.*
+
+# Ignorar arquivos de backup do macOS
+._*
