@@ -1,6 +1,6 @@
 {
   "es": {
-    "welcome": "<span>¡Bienvenida!</span>, completa tus datos para generar tu <span>plan personalizado!</span> ♂️",
+    "welcome": "<span>¡Bienvenida!</span> Completa tus datos para generar tu <span>plan personalizado!</span> ♂️",
     "age": "E-mail",
     "height": "Edad",
     "weight": "Peso (en kg)",
@@ -26,7 +26,7 @@
     "submit": "Entrer"
   },
   "pt": {
-    "welcome": "<span>Bem-vindo!<span>, preencha seus dados para gerar seu <span>plano personalizado!</span> ♂️",
+    "welcome": "<span>Bem-vindo!<span> Preencha seus dados para gerar seu <span>plano personalizado!</span> ♂️",
     "age": "E-mail",
     "height": "Idade",
     "weight": "Peso (em kg)",
