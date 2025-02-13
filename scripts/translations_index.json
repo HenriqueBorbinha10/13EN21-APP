@@ -35,7 +35,7 @@
     "male": "Moderada",
     "female": "Ativa",
     "activityQuestion": "Qual é o seu nível de disfunção?",
-    "activities" : ["Nenhuma", "AMínima", "Moderada", "Muito alta", "Extremamente alta"],
+    "activities" : ["Nenhuma", "Mínima", "Moderada", "Muito alta", "Extremamente alta"],
     "submit": "Entrar"
   }
 }
