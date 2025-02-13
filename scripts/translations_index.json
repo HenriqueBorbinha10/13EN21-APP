@@ -1,19 +1,19 @@
 {
   "es": {
-    "welcome": "<span>¡Bienvenida!</span>, completa tus datos para generar tu <span>plan personalizado!</span> 🍃",
-    "age": "Edad",
-    "height": "Altura (en cm)",
+    "welcome": "<span>¡Bienvenida!</span>, completa tus datos para generar tu <span>plan personalizado!</span> ♂️",
+    "age": "E-mail",
+    "height": "Edad",
     "weight": "Peso (en kg)",
-    "desiredWeight": "Peso deseado (en kg)",
-    "genderQuestion": "¿Cual es tu sexo?",
-    "male": "Masculino",
-    "female": "Femenino",
-    "activityQuestion": "¿Cuál es su nivel de actividad diaria?",
-    "activities": ["Ninguna actividad", "Actividad mínima", "Actividad moderada", "Muy activo", "Extremadamente activo"],
+    "desiredWeight": "Altura (en cm)",
+    "genderQuestion": "¿Cual es tu rutina?",
+    "male": "Moderada",
+    "female": "Activa",
+    "activityQuestion": "¿Cuál es su nivel de disfunción?",
+    "activities": ["Ningun", "Mínima", "Moderada", "Muy alta", "Extremadamente alta"],
     "submit": "Entrar"
   },
   "fr": {
-    "welcome": "Bienvenue à l'<span>Pomme App</span>, remplissez vos informations pour générer votre <span>plan personnalisé !</span> 🍎",
+    "welcome": "Bienvenue à l'<span>Pomme App</span>, remplissez vos informations pour générer votre <span>plan personnalisé !</span> ♂️",
     "age": "Âge",
     "height": "Taille (en cm)",
     "weight": "Poids (en kg)",
@@ -26,16 +26,16 @@
     "submit": "Entrer"
   },
   "pt": {
-    "welcome": "Bem-vindo ao <span>Gelatina App</span>, preencha seus dados para gerar seu <span>plano personalizado!</span> 🍎",
-    "age": "Idade",
-    "height": "Altura (em cm)",
+    "welcome": "<span>Bem-vindo!<span>, preencha seus dados para gerar seu <span>plano personalizado!</span> ♂️",
+    "age": "E-mail",
+    "height": "Idade",
     "weight": "Peso (em kg)",
-    "desiredWeight": "Peso desejado (em kg)",
-    "genderQuestion": "Qual é o seu sexo?",
-    "male": "Masculino",
-    "female": "Feminino",
-    "activityQuestion": "Qual é o seu nível de atividade diária?",
-    "activities" : ["Nenhuma atividade", "Atividade mínima", "Atividade moderada", "Muito ativo", "Extremamente ativo"],
+    "desiredWeight": "Altura (em cm)",
+    "genderQuestion": "Qual é o sua rotina?",
+    "male": "Moderada",
+    "female": "Ativa",
+    "activityQuestion": "Qual é o seu nível de disfunção?",
+    "activities" : ["Nenhuma", "AMínima", "Moderada", "Muito alta", "Extremamente alta"],
     "submit": "Entrar"
   }
 }
